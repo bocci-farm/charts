@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  rails-sandbox:
+  - apiVersion: v1
+    created: "2021-05-20T11:58:18.176572+09:00"
+    description: A generated Helm Chart for rails-sandbox from Skippbox Kompose
+    digest: 1b3c1008264ae0f9b8722b4d0dc7be6b4f9907e65ff568f96ee66820804bfd46
+    keywords:
+    - rails-sandbox
+    name: rails-sandbox
+    urls:
+    - https://bocci-farm.github.io/charts/rails-sandbox-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v1
+    created: "2021-05-20T11:58:18.176091+09:00"
+    description: A generated Helm Chart for rails-sandbox from Skippbox Kompose
+    digest: fc9815fd2a80b2bb54fd19b4d498d62784b8d991eec5c75cac16f12d0e4f967a
+    keywords:
+    - rails-sandbox
+    name: rails-sandbox
+    urls:
+    - https://bocci-farm.github.io/charts/rails-sandbox-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-05-20T11:58:18.17065+09:00"
